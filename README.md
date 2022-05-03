@@ -1,4 +1,4 @@
-# Flower-Poem and the Weather
+# Flower-Poem and the Weather and Sun
 
 Sunflower
 Daisy
@@ -9,3 +9,4 @@ Cherry Blossom
 Tulip
 Orchid
 These are some flowers and weather.
+And sun. 
